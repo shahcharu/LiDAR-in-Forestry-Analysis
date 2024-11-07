@@ -1,4 +1,4 @@
-- Simulated environment maps and optimized drone trajectories using LiDAR data and SLAM algorithms.
-- Pre-processed LiDAR data, including ground segmentation and elevation normalization.
-- Extracted forest metrics like canopy cover, gap fraction, and leaf area index.
-- Identified and segmented individual trees, calculating attributes like height and crown diameter.
+- Focused on optimizing drone navigation and environmental mapping for precise forest analysis and monitoring.
+- Optimized drone trajectories and simulated environment maps using LiDAR data and SLAM algorithms.
+- Pre-processed LiDAR data by ground segmentation and elevation normalization to improve analysis accuracy.
+- Achieved highly accurate forest metrics including canopy cover and tree attributes like height and crown diameter.
